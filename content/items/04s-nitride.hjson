@@ -1,0 +1,7 @@
+name: Nitride
+description: An eextremely strong material used in advanced buildings and unit production
+cost: 5
+hardness: 6
+color: 9e8639
+research: graphite
+hiddenOnPlanets: [serpulo, erekir]

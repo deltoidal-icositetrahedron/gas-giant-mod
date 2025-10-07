@@ -1,0 +1,7 @@
+name: Germanium
+description: A semimetal used in electronics
+cost: 1.5
+hardness: 2
+color: 53656e
+research: 04l-germane
+hiddenOnPlanets: [serpulo, erekir]

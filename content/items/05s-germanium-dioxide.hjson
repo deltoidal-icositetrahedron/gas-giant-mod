@@ -1,0 +1,7 @@
+name: Germanium Dioxide
+description: A strong material with useful optical properties
+cost: 4
+hardness: 3
+color: ffffff
+research: 04s-germanium
+hiddenOnPlanets: [serpulo, erekir]
